@@ -1,2 +1,2 @@
-# Jogo-da-velha
-Construindo o jogo da velha usando HTML5, CSS e JavaScript.
+# Tic-tac-toe
+Building Tic-tac-toe game using HTML5, CSS e JavaScript.
